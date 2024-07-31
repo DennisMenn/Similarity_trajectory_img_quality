@@ -1,0 +1,48 @@
+python scripts/txt2img.py --prompt "a professional photograph of an astronaut riding a horse" --ckpt /home/dym349/Desktop/diffusion_models/stablediffusion/checkpoints/v2-1_512-ema-pruned.ckpt --config /home/dym349/Desktop/diffusion_models/stablediffusion/configs/stable-diffusion/v2-inference.yaml --device cuda --n_samples 1 --critical_time -10
+
+used prompt
+1. a professional photograph of an astronaut riding a horse
+2. a student walking in front of the UT tower, with one hand holding a calculus book.
+3. a basketball player, dribbling a snowball in the Artica, with two legs slightly bending and preparing to dunk.
+4. a basketball player, dribbling a snowball in the Artica, sitting with an husky
+5. A elephant standing in the desert, directly facing the viewer with its ears spread wide and eyes gazing forward.
+6. a lion is fighting with a tiger.
+7. a kid is sitting on a chair while waiting for an afternoon tea in the summer.
+8. the boaters are smiling, their two boats touching in the low water near shore.
+
+MS COCO
+1. a toilet in a public bathroom with a teddy bear sitting on it.
+2. a couple of rail road tracks that are next to some train cars
+3. a seagull flying in the sky, with a mountain in the background.
+
+
+for comparison select: (good, bad)
+1. elephant (001,002)
+2. lion (001,002)
+3. UT student (002,000)
+4. afterboon_tea (002, 001)
+5. sea gull (001, 000)
+6. track (000, 001)
+7. toilet (001, 000)
+8. boat (000, 001)
+
+1. large object
+2. test ssim first
+3. 
+
+observations:
+converge too fast -> overfitting
+sudden change
+
+structure component from ssim
+extract contour
+normalize with contour area
+
+1. change of the object
+2. brightness matters not, the contour matters
+
+
+observe the good-quality image first:
+1. elephant
+2. UT student
+3. Lion

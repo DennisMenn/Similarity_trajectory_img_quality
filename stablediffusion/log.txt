@@ -1,0 +1,25 @@
+Loading model from /home/dym349/Desktop/diffusion_models/stablediffusion/checkpoints/v2-1_512-ema-pruned.ckpt
+Global Step: 220000
+No module 'xformers'. Proceeding without it.
+LatentDiffusion: Running in eps-prediction mode
+DiffusionWrapper has 865.91 M params.
+making attention of type 'vanilla' with 512 in_channels
+Working with z of shape (1, 4, 32, 32) = 4096 dimensions.
+making attention of type 'vanilla' with 512 in_channels
+Creating invisible watermark encoder (see https://github.com/ShieldMnt/invisible-watermark)...
+Data shape for DDIM sampling is (1, 4, 64, 64), eta tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0.])
+Running DDIM Sampling with 50 timesteps
+Data shape for DDIM sampling is (1, 4, 64, 64), eta tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0.])
+Running DDIM Sampling with 50 timesteps
+Data shape for DDIM sampling is (1, 4, 64, 64), eta tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0.])
+Running DDIM Sampling with 50 timesteps
+Your samples are ready and waiting for you here: 
+outputs/txt2img-samples 
+ 
+Enjoy.

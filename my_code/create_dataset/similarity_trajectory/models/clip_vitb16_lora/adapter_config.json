@@ -1,0 +1,21 @@
+{
+  "base_model_name_or_path": "",
+  "bias": "none",
+  "enable_lora": [
+    true,
+    false,
+    true
+  ],
+  "fan_in_fan_out": true,
+  "inference_mode": true,
+  "lora_alpha": 0.5,
+  "lora_dropout": 0.3,
+  "merge_weights": false,
+  "modules_to_save": null,
+  "peft_type": "LORA",
+  "r": 16,
+  "target_modules": [
+    "qkv"
+  ],
+  "task_type": null
+}

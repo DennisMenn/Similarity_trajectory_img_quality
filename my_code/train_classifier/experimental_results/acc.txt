@@ -1,0 +1,27 @@
+dim=4
+Fold 0, Accuracy: 66.66666666666666%
+Fold 1, Accuracy: 76.47058823529412%
+Fold 2, Accuracy: 78.43137254901961%
+Fold 3, Accuracy: 78.43137254901961%
+Fold 4, Accuracy: 74.50980392156863%
+Fold 5, Accuracy: 72.54901960784314%
+Fold 6, Accuracy: 64.70588235294117%
+Fold 7, Accuracy: 54.90196078431373%
+Fold 8, Accuracy: 76.47058823529412%
+Fold 9, Accuracy: 62.745098039215684%
+Average K-Fold Accuracy: 70.59% (SEM: 2.51%)
+
+dim=5
+Fold 0, Accuracy: 66.66666666666666%
+Fold 1, Accuracy: 78.43137254901961%
+Fold 2, Accuracy: 80.3921568627451%
+Fold 3, Accuracy: 78.43137254901961%
+Fold 4, Accuracy: 74.50980392156863%
+Fold 5, Accuracy: 70.58823529411765%
+Fold 6, Accuracy: 68.62745098039215%
+Fold 7, Accuracy: 52.94117647058824%
+Fold 8, Accuracy: 72.54901960784314%
+Fold 9, Accuracy: 64.70588235294117%
+Average K-Fold Accuracy: 70.78% (SEM: 2.59%)
+
+dim=6

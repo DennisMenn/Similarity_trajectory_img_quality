@@ -1,0 +1,59 @@
+dim 21
+Average K-Fold Accuracy: 70.98% (SEM: 1.67%)
+dim 22
+Average K-Fold Accuracy: 70.98% (SEM: 1.40%)
+dim 23
+Average K-Fold Accuracy: 71.37% (SEM: 1.63%)
+dim 24
+Average K-Fold Accuracy: 71.37% (SEM: 1.76%)
+dim 25
+Average K-Fold Accuracy: 69.41% (SEM: 1.28%)
+dim 26
+Average K-Fold Accuracy: 68.63% (SEM: 1.75%)
+dim 27
+Average K-Fold Accuracy: 68.63% (SEM: 2.00%)
+dim 28
+Average K-Fold Accuracy: 68.43% (SEM: 1.61%)
+dim 29
+Average K-Fold Accuracy: 66.86% (SEM: 1.38%)
+dim 30
+Average K-Fold Accuracy: 67.06% (SEM: 1.54%)
+dim 31
+Average K-Fold Accuracy: 66.27% (SEM: 1.67%)
+dim 32
+Average K-Fold Accuracy: 66.47% (SEM: 1.45%)
+dim 33
+Average K-Fold Accuracy: 63.92% (SEM: 2.17%)
+dim 34
+Average K-Fold Accuracy: 63.53% (SEM: 2.55%)
+dim 35
+Average K-Fold Accuracy: 63.33% (SEM: 2.36%)
+dim 36
+Average K-Fold Accuracy: 62.55% (SEM: 1.88%)
+dim 37
+Average K-Fold Accuracy: 62.35% (SEM: 2.79%)
+dim 38
+Average K-Fold Accuracy: 60.78% (SEM: 2.23%)
+dim 39
+Average K-Fold Accuracy: 60.78% (SEM: 2.46%)
+dim 40
+Average K-Fold Accuracy: 59.22% (SEM: 1.84%)
+dim 41
+Average K-Fold Accuracy: 57.45% (SEM: 2.27%)
+dim 42
+Average K-Fold Accuracy: 58.24% (SEM: 2.57%)
+dim 43
+Average K-Fold Accuracy: 57.45% (SEM: 2.45%)
+dim 44
+Average K-Fold Accuracy: 56.08% (SEM: 1.61%)
+dim 45
+Average K-Fold Accuracy: 51.96% (SEM: 2.40%)
+dim 46
+Average K-Fold Accuracy: 53.14% (SEM: 2.54%)
+dim 47
+Average K-Fold Accuracy: 50.20% (SEM: 2.23%)
+dim 48
+Average K-Fold Accuracy: 53.53% (SEM: 2.25%)
+dim 49
+Average K-Fold Accuracy: 51.18% (SEM: 1.42%)
+dim 50
